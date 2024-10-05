@@ -13,3 +13,6 @@ pip install Pillow
 
 ## 例
 ![output_1](https://github.com/user-attachments/assets/d751e2e3-b704-4cbc-92fb-9bd02e0c447f)
+
+
+制作:sskrc
